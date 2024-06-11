@@ -52,3 +52,24 @@ Datos.java
 ![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/6b74f6b7-2e03-4625-96e4-b1794f490b3f)
 
 
+
+CSVToDataBase.java
+
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/e55b4389-f6bd-4e24-84da-15a5a020ce6f)
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/fc760eab-278b-46f4-9aee-c5d38dd56398)
+
+
+Main.java
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/c449b6e5-1ec9-4141-8301-7f69530e2932)
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/616e4090-8c43-45f4-98d6-7d5a5561ea00)
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/1bbb0771-d8d3-45a9-9be0-aa09b65df564)
