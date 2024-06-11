@@ -73,3 +73,15 @@ Main.java
 
 
 ![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/1bbb0771-d8d3-45a9-9be0-aa09b65df564)
+
+
+ConexionSql.java
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/2c6b933b-f42e-4fdd-b3d4-e15744d05ed4)
+
+
+DataBaseConnectionManager.java
+
+
+![image](https://github.com/Ragy04/Proyecto_Final_1P/assets/164718921/14ae5bcb-f588-4c1e-b020-cde9733e837e)
